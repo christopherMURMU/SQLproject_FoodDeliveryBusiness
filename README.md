@@ -10,3 +10,5 @@ Easy Level Questions: Focus on fundamental SQL queries such as filtering, sortin
 Intermediate Level Questions: Involve more complex operations like Joins, Case Statements, Time based queries and Grouping techniques.
 
 Advanced Level Questions: Utilize advanced SQL concepts such as Common Table Expressions (CTEs), Subqueries, Window Functions, and Analytical Queries.
+
+You can see the comprehensive analysis of my project here: https://sites.google.com/view/christohermurmu-sql-project/home?authuser=1
