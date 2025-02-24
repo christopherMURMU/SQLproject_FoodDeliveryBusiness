@@ -11,4 +11,4 @@ Intermediate Level Questions: Involve more complex operations like Joins, Case S
 
 Advanced Level Questions: Utilize advanced SQL concepts such as Common Table Expressions (CTEs), Subqueries, Window Functions, and Analytical Queries.
 
-You can see the comprehensive analysis of my project here: https://sites.google.com/view/christohermurmu-sql-project/home?authuser=1
+You can see the complete explanation of my project here: https://sites.google.com/view/christohermurmu-sql-project/home?authuser=1
